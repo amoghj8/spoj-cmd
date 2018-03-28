@@ -8,7 +8,7 @@ Spoj Catalogue was created for Python users who prefer to install via [PyPI](htt
 
 Install using
     
-    pip install spoj-cmd
+    pip install SPOJ-CMD==0.0.1
 
 ### List
 
